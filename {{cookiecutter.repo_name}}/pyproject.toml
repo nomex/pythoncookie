@@ -2,10 +2,10 @@
 name = "{{cookiecutter.app_name}}"
 version = "0.0.1"
 description = ""
-authors = ["Marcello Salvati <byt3bl33d3r@pm.me>"]
+authors = ["David Lladro <david.lladro@gmail.com>"]
 readme = "README.md"
-homepage = "https://github.com/byt3bl33d3r/{{cookiecutter.repo_name}}"
-repository = "https://github.com/byt3bl33d3r/{{cookiecutter.repo_name}}"
+homepage = "https://github.com/nomex/{{cookiecutter.repo_name}}"
+repository = "https://github.com/nomex/{{cookiecutter.repo_name}}"
 exclude = ["tests"]
 include = ["LICENSE"]
 license = ""
